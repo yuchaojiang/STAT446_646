@@ -1,4 +1,4 @@
-![Image description](https://github.com/yuchaojiang/BIOSBCB785/blob/master/Title.png)
+![Image description](https://github.com/yuchaojiang/STAT446_646/blob/main/Title.jpeg)
 
 ### Instructor
 
@@ -11,11 +11,7 @@ Email: yuchaojiang@tamu.edu
 
 * **Description**: This course is designed to provide graduate students interested in statistical genetics and genomics with an opportunity to gain or enhance knowledge in gene expression analysis by next-generation sequencing. The course is aimed at preparing students for conducting methodological research in high-throughput transcriptomic studies. The course includes two sections: bulk RNA-seq and single-cell RNA-seq (scRNA-seq). Each section starts with biological background, followed by statistical and computational methods, and finishes with biological interpretations and follow-ups. Topics include data normalization, measurement of error models, dispersion shrinkage, dimensionality reduction, zero-inflated factor analysis, batch correction, clustering algorithm, deconvolution, pseudotime reconstruction, deep neural network, and autoencoder, etc.
 
-* **[Course Slack](http://unc785spring2023.slack.com/)**
-
 * **[Syllabus](https://www.dropbox.com/s/wjb3c4ihva60f3g/BIOS785_Spring2023_Yuchao_Jiang.pdf?dl=0)**
-
-* **[Course Schedule](https://docs.google.com/spreadsheets/d/1TjQCCgqk-1s0F8PrYYB7yeJAWmy6xEWw5RiEmpNhVRw/edit?usp=sharing)**
 
 * **Class Time & Location**: Tuesdays and Thursdays, 9:30am – 10:45am; McGavran-Greenberg 2301.
 
