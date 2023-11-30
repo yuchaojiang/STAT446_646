@@ -1,4 +1,4 @@
-![Image description](https://github.com/yuchaojiang/STAT446_646/blob/main/Title.jpeg)
+![Image description](https://github.com/yuchaojiang/STAT446_646/blob/main/Title.png)
 
 ### Instructor
 
